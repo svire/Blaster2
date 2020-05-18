@@ -1,2 +1,2 @@
 # Blaster2 Game
- Similar to chicken invaders
+Simple 2d video game, similar to chicken invaders
